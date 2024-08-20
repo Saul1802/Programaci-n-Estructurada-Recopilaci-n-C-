@@ -1,0 +1,1 @@
+Recopilación de programas de programación estructurada C++, algunos códigos son prueba y error, checarlos y hacer pruebas, puedes corregir con IA, estudiar el código y su estructura ya que el profe a veces pide que le expliques el código
